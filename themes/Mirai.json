@@ -124,6 +124,11 @@
 		"notificationsWarningIcon.foreground": "#F1FA8C",
 		"notificationsInfoIcon.foreground": "#8BE9FD",
 
+		"extensionIcon.starForeground": "#6272A4",
+		"extensionBadge.remoteBackground": "#6272A4",
+		"extensionBadge.remoteForeground": "#F8F8F2"
+
+
 
 
 
