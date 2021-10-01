@@ -2,7 +2,13 @@
 	"name": "Mirai",
 	"type": "dark",
 	"colors": {
-
+		"focusBorder": "#1FFF9C",
+		"foreground": "#A6A6A6",
+		"widget.shadow": "#1A1A1A",
+		"icon.foreground": "#A6A6A6",
+		"errorForeground": "#E83C6A",
+		"descriptionForeground": "#A6A6A6",
+		"selection.background": "#D7F6FD40"
 	},
 	"tokenColors": [
 
