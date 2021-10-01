@@ -133,7 +133,19 @@
 
 		"keybindingLabel.background": "#6272A4",
 		"keybindingLabel.foreground": "#F8F8F2",
-		"keybindingLabel.border": "#1A1A1A"
+		"keybindingLabel.border": "#1A1A1A",
+
+		"terminal.background": "#1F212B",
+		"terminal.foreground": "#A6A6A6",
+		"terminal.ansiBlack": "#1A1A1A",
+		"terminal.ansiBlue": "#00BDFF",
+		"terminal.ansiCyan": "#8BE9FD",
+		"terminal.ansiGreen": "#1FFF9C",
+		"terminal.ansiMagenta": "#FE2B99",
+		"terminal.ansiRed": "#E83C6A",
+		"terminal.ansiWhite": "#F8F8F2",
+		"terminal.ansiYellow": "#F1FA8C",
+		"terminal.selectionBackground": "#6272A450"
 
 
 
