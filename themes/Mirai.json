@@ -16,7 +16,10 @@
 		"button.border": "#1A1A1A",
 		"checkbox.background": "#6272A4",
 		"checkbox.foreground": "#F8F8F2",
-		"checkbox.border": "#1A1A1A"
+		"checkbox.border": "#1A1A1A",
+
+		"badge.background": "#E83C6A",
+		"badge.foreground": "#F8F8F2"
 	},
 	"tokenColors": [
 
