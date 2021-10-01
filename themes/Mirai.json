@@ -80,6 +80,11 @@
 		"merge.incomingHeaderBackground": "#F24B7880",
 		"merge.incomingContentBackground": "#F24B7840",
 
+		"panel.background": "#1F212B",
+		"panel.border": "#1F212B",
+		"panelTitle.inactiveForeground": "#A6A6A6",
+		"panelTitle.activeForeground": "#F8F8F2",
+		"panelTitle.activeBorder": "#6272A4",
 
 
 	},
