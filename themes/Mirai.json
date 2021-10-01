@@ -114,6 +114,16 @@
 		"menu.selectionBackground": "#6272A440",
 		"menu.selectionForeground": "#F8F8F2",
 
+		"notifications.background": "#1F212B",
+		"notifications.foreground": "#A6A6A6",
+		"notificationCenterHeader.background": "#1C1E26",
+		"notificationCenterHeader.foreground": "#A6A6A6",
+		"notifications.border": "#44475A",
+		"notificationLink.foreground": "#1FFF9C",
+		"notificationsErrorIcon.foreground": "#E83C6A",
+		"notificationsWarningIcon.foreground": "#F1FA8C",
+		"notificationsInfoIcon.foreground": "#8BE9FD",
+
 
 
 
