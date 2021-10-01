@@ -57,6 +57,12 @@
 		"diffEditor.removedTextBackground": "#F24B7840",
 		"diffEditor.diagonalFill": "#6272A4",
 
+		"editorWidget.background": "#1F212B",
+		"editorWidget.foreground": "#A6A6A6",
+		"editorWidget.border": "#1A1A1A",
+		"editorSuggestWidget.background": "#1F212B",
+		"editorSuggestWidget.foreground": "#A6A6A6",
+
 	},
 	"tokenColors": [
 
