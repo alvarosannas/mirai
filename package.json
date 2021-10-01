@@ -1,0 +1,37 @@
+{
+    "name": "mirai",
+    "displayName": "Mirai",
+    "author": {
+        "name": "Álvaro Santana",
+        "email": "sannas.alvaro@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "description": "Mirai is a simple dark theme for VS Code. Good coding!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Mirai",
+        "Dark Theme",
+        "Color-Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mirai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mirai.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "git-commit-msg-linter": "^3.2.8"
+    }
+}
