@@ -145,7 +145,18 @@
 		"terminal.ansiRed": "#E83C6A",
 		"terminal.ansiWhite": "#F8F8F2",
 		"terminal.ansiYellow": "#F1FA8C",
-		"terminal.selectionBackground": "#6272A450"
+		"terminal.selectionBackground": "#6272A450",
+
+		"testing.iconFailed": "#FE2B99",
+		"testing.iconErrored": "#E83C6A",
+		"testing.iconPassed": "#1FFF9C",
+		"testing.runAction": "#F8F8F2",
+		"testing.iconQueued": "#F1FA8C",
+		"testing.iconUnset": "#8BE9FD",
+		"testing.iconSkipped": "#FFB86C",
+		"testing.peekBorder": "#6272A4"
+
+
 
 
 
