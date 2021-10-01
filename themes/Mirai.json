@@ -101,6 +101,12 @@
 		"statusBarItem.warningBackground": "#F1FA8C",
 		"statusBarItem.warningForeground": "#F8F8F2",
 
+		"titleBar.inactiveBackground": "#1C1E26",
+		"titleBar.inactiveForeground": "#A6A6A6",
+		"titleBar.activeBackground": "#1C1E26",
+		"titleBar.activeForeground": "#A6A6A6",
+
+
 
 
 	},
