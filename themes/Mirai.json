@@ -8,7 +8,7 @@
 		"icon.foreground": "#A6A6A6",
 		"errorForeground": "#E83C6A",
 		"descriptionForeground": "#A6A6A6",
-		"selection.background": "#D7F6FD40",
+		"selection.background": "#6272A450",
 
 		"button.background": "#6272A4",
 		"button.hoverBackground": "#6272A495",
@@ -38,7 +38,20 @@
 		"tab.activeForeground": "#F8F8F2",
 		"tab.inactiveBackground": "#1F212B",
 		"tab.inactiveForeground": "#A6A6A6",
-		"tab.border": "#1A1A1A"
+		"tab.border": "#1A1A1A",
+
+		"editor.background": "#1C1E26",
+		"editor.foreground": "#A6A6A6",
+		"editorLineNumber.foreground": "#A6A6A6",
+		"editorLineNumber.activeForeground": "#F8F8F2",
+		"editor.selectionBackground": "#6272A450",
+		"editor.wordHighlightBackground": "#6272A450",
+		"editor.findMatchBackground": "#0BD99E40",
+		"editor.findMatchHighlightBackground": "#0BD99E40",
+		"editor.findRangeHighlightBackground": "#0BD99E40",
+		"searchEditor.findMatchBackground": "#0BD99E40",
+		"editor.rangeHighlightBackground": "#F24B7840",
+		"editorError.foreground": "#E83C6A"
 	},
 	"tokenColors": [
 
