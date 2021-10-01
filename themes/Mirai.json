@@ -25,7 +25,13 @@
 		"activityBar.inactiveForeground": "#A6A6A6",
 		"activityBar.foreground": "#F8F8F2",
 		"activityBarBadge.background": "#6272A4",
-		"activityBarBadge.foreground": "#F8F8F2"
+		"activityBarBadge.foreground": "#F8F8F2",
+
+		"sideBar.background": "#1F212B",
+		"sideBar.foreground": "#A6A6A6",
+		"sideBarSectionHeader.background": "#1C1E26",
+		"sideBarSectionHeader.foreground": "#A6A6A6",
+		"sideBarTitle.foreground": "#A6A6A6"
 	},
 	"tokenColors": [
 
