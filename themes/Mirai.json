@@ -63,6 +63,19 @@
 		"editorSuggestWidget.background": "#1F212B",
 		"editorSuggestWidget.foreground": "#A6A6A6",
 
+		"peekView.border": "#6272A4",
+		"peekViewEditor.background": "#1F212B",
+		"peekViewEditorGutter.background": "#1F212B",
+		"peekViewEditor.matchHighlightBackground": "#0BD99E40",
+		"peekViewResult.background": "#1F212B",
+		"peekViewResult.matchHighlightBackground": "#0BD99E40",
+		"peekViewResult.selectionBackground": "#6272A420",
+		"peekViewResult.selectionForeground": "#A6A6A6",
+		"peekViewTitle.background": "#1C1E26",
+		"peekViewTitleDescription.foreground": "#A6A6A6",
+		"peekViewTitleLabel.foreground": "#F8F8F2",
+
+
 	},
 	"tokenColors": [
 
