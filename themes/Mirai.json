@@ -8,7 +8,15 @@
 		"icon.foreground": "#A6A6A6",
 		"errorForeground": "#E83C6A",
 		"descriptionForeground": "#A6A6A6",
-		"selection.background": "#D7F6FD40"
+		"selection.background": "#D7F6FD40",
+
+		"button.background": "#6272A4",
+		"button.hoverBackground": "#6272A495",
+		"button.foreground": "#F8F8F2",
+		"button.border": "#1A1A1A",
+		"checkbox.background": "#6272A4",
+		"checkbox.foreground": "#F8F8F2",
+		"checkbox.border": "#1A1A1A"
 	},
 	"tokenColors": [
 
