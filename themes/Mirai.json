@@ -51,7 +51,12 @@
 		"editor.findRangeHighlightBackground": "#0BD99E40",
 		"searchEditor.findMatchBackground": "#0BD99E40",
 		"editor.rangeHighlightBackground": "#F24B7840",
-		"editorError.foreground": "#E83C6A"
+		"editorError.foreground": "#E83C6A",
+
+		"diffEditor.insertedTextBackground": "#0BD99E40",
+		"diffEditor.removedTextBackground": "#F24B7840",
+		"diffEditor.diagonalFill": "#6272A4",
+
 	},
 	"tokenColors": [
 
