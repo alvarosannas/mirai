@@ -129,7 +129,11 @@
 		"extensionBadge.remoteForeground": "#F8F8F2",
 
 		"quickInput.background": "#1C1E26",
-		"quickInput.foreground": "#A6A6A6"
+		"quickInput.foreground": "#A6A6A6",
+
+		"keybindingLabel.background": "#6272A4",
+		"keybindingLabel.foreground": "#F8F8F2",
+		"keybindingLabel.border": "#1A1A1A"
 
 
 
