@@ -126,7 +126,11 @@
 
 		"extensionIcon.starForeground": "#6272A4",
 		"extensionBadge.remoteBackground": "#6272A4",
-		"extensionBadge.remoteForeground": "#F8F8F2"
+		"extensionBadge.remoteForeground": "#F8F8F2",
+
+		"quickInput.background": "#1C1E26",
+		"quickInput.foreground": "#A6A6A6"
+
 
 
 
