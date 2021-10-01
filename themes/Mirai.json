@@ -75,6 +75,12 @@
 		"peekViewTitleDescription.foreground": "#A6A6A6",
 		"peekViewTitleLabel.foreground": "#F8F8F2",
 
+		"merge.currentHeaderBackground": "#0BD99E80",
+		"merge.currentContentBackground": "#0BD99E40",
+		"merge.incomingHeaderBackground": "#F24B7880",
+		"merge.incomingContentBackground": "#F24B7840",
+
+
 
 	},
 	"tokenColors": [
