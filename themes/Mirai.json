@@ -106,6 +106,14 @@
 		"titleBar.activeBackground": "#1C1E26",
 		"titleBar.activeForeground": "#A6A6A6",
 
+		"menu.background": "#1C1E26",
+		"menu.foreground": "#A6A6A6",
+		"menu.separatorBackground": "#6272A4",
+		"menubar.selectionBackground": "#6272A440",
+		"menubar.selectionForeground": "#F8F8F2",
+		"menu.selectionBackground": "#6272A440",
+		"menu.selectionForeground": "#F8F8F2",
+
 
 
 
