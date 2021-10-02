@@ -27,6 +27,10 @@
 		"inputValidation.infoForeground": "#8BE9FD",
 		"inputValidation.warningForeground": "#F1FA8C",
 
+		"scrollbar.shadow": "#1A1A1A",
+		"scrollbarSlider.background": "#A6A6A660",
+		"scrollbarSlider.hoverBackground": "#A6A6A680",
+
 		"badge.background": "#6272A4",
 		"badge.foreground": "#F8F8F2",
 
