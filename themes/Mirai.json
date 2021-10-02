@@ -18,6 +18,15 @@
 		"checkbox.foreground": "#F8F8F2",
 		"checkbox.border": "#1A1A1A",
 
+		"input.background": "#24292E",
+		"input.foreground": "#A6A6A6",
+		"input.placeholderForeground": "#A6A6A6",
+		"inputOption.activeBackground": "#24292E",
+		"inputOption.activeForeground": "#A6A6A6",
+		"inputValidation.errorForeground": "#E83C6A",
+		"inputValidation.infoForeground": "#8BE9FD",
+		"inputValidation.warningForeground": "#F1FA8C",
+
 		"badge.background": "#6272A4",
 		"badge.foreground": "#F8F8F2",
 
