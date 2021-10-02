@@ -18,6 +18,10 @@
 		"checkbox.foreground": "#F8F8F2",
 		"checkbox.border": "#1A1A1A",
 
+		"dropdown.background": "#1C1E26",
+		"dropdown.foreground": "#A6A6A6",
+		"dropdown.listBackground": "#1C1E26",
+
 		"input.background": "#24292E",
 		"input.foreground": "#A6A6A6",
 		"input.placeholderForeground": "#A6A6A6",
