@@ -11,7 +11,7 @@
 		"selection.background": "#6272A450",
 
 		"textLink.foreground": "#F8F8F2",
-		"textLink.activeForeground": "#F8F8F2",
+		"textLink.activeForeground": "#F8F8F290",
 		"textPreformat.foreground": "#FFD176",
 
 		"button.background": "#6272A4",
@@ -196,6 +196,9 @@
 		"gitDecoration.stageDeletedResourceForeground": "#E83C6A",
 		"gitDecoration.conflictingResourceForeground": "#FE2B99",
 		"gitDecoration.submoduleResourceForeground": "#00BDFF",
+
+		"breadcrumb.background": "#1C1E26",
+		"breadcrumb.foreground": "#A6A6A6"
 
 
 
