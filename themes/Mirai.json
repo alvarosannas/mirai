@@ -154,7 +154,19 @@
 		"testing.iconQueued": "#F1FA8C",
 		"testing.iconUnset": "#8BE9FD",
 		"testing.iconSkipped": "#FFB86C",
-		"testing.peekBorder": "#6272A4"
+		"testing.peekBorder": "#6272A4",
+
+		"gitDecoration.deletedResourceForeground": "#E83C6A",
+		"gitDecoration.modifiedResourceForeground": "#F1FA8C",
+		"gitDecoration.ignoredResourceForeground": "#6272A4",
+		"gitDecoration.untrackedResourceForeground": "#F8F8F2",
+		"gitDecoration.addedResourceForeground": "#1FFF9C",
+		"gitDecoration.renamedResourceForeground": "#FFB86C",
+		"gitDecoration.stageModifiedResourceForeground": "#F1FA8C",
+		"gitDecoration.stageDeletedResourceForeground": "#E83C6A",
+		"gitDecoration.conflictingResourceForeground": "#FE2B99",
+		"gitDecoration.submoduleResourceForeground": "#00BDFF",
+
 
 
 
