@@ -21,6 +21,15 @@
 		"badge.background": "#6272A4",
 		"badge.foreground": "#F8F8F2",
 
+		"list.activeSelectionBackground": "#6272A440",
+		"list.activeSelectionForeground": "#F8F8F2",
+		"list.hoverBackground": "#6272A440",
+		"list.hoverForeground": "#F8F8F2",
+		"list.inactiveSelectionBackground": "#6272A440",
+		"list.inactiveSelectionForeground": "#F8F8F2",
+		"list.errorForeground": "#E83C6A",
+		"list.warningForeground": "#F1FA8C",
+
 		"activityBar.background": "#1C1E26",
 		"activityBar.inactiveForeground": "#A6A6A6",
 		"activityBar.foreground": "#F8F8F2",
