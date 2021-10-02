@@ -10,6 +10,10 @@
 		"descriptionForeground": "#A6A6A6",
 		"selection.background": "#6272A450",
 
+		"textLink.foreground": "#F8F8F2",
+		"textLink.activeForeground": "#F8F8F2",
+		"textPreformat.foreground": "#FFD176",
+
 		"button.background": "#6272A4",
 		"button.hoverBackground": "#6272A495",
 		"button.foreground": "#F8F8F2",
