@@ -2,6 +2,7 @@
     "name": "mirai",
     "displayName": "Mirai",
     "description": "Mirai is a simple dark theme for VS Code. Good coding!",
+    "publisher": "AlvaroSantana",
     "author": {
         "name": "Álvaro Santana",
         "email": "sannas.alvaro@gmail.com"
