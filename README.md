@@ -9,7 +9,7 @@ Mirai is a simple dark theme for VS Code. Good coding!
 [![Colors.png](https://i.postimg.cc/W1RSvphd/Colors.png)](https://postimg.cc/RNRw1B1m)
 
 ## Syntax Highlighting Support
-[![Code.png](https://i.postimg.cc/g2fsGzjw/Code.png)](https://postimg.cc/3kFmBHg7)
+[![Screen.png](https://i.postimg.cc/MTJqN5Xk/Screen.png)](https://postimg.cc/94b6qGG1)
 
 - [x] Go Lang
 - [x] Elixir
