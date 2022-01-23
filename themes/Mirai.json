@@ -244,7 +244,9 @@
         "punctuation.section.property-list.begin.bracket.curly",
         "punctuation.section.property-list.end.bracket.curly",
         "punctuation.section.keyframes.begin.bracket.curly",
-        "punctuation.section.keyframes.end.bracket.curly"
+        "punctuation.section.keyframes.end.bracket.curly",
+        "punctuation.support.type.property-name.begin.json",
+        "punctuation.support.type.property-name.end.json"
       ],
       "settings": {
         "foreground": "#F8F8F2"
